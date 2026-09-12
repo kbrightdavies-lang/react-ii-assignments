@@ -1,3 +1,13 @@
+A simple student registration application containing:
+Input for student name
+Input for student course
+A table displaying registered students
+A delete button beside every registered student
+CSS for the app
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
